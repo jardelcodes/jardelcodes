@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA1019&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=74e6eb&height=120&section=header"/>
 
  ## Olá, me chamo Jardel, estou aprendendo programacao na faculdade!
 
@@ -9,4 +9,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA1019&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=74e6eb&height=120&section=footer"/>
